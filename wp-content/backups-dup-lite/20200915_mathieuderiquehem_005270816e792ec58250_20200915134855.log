@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 15 September 2020 13h49
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.36
+WORDPRESS:	5.5.1
+PHP INFO:	7.4.9 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200915_mathieuderiquehem_005270816e792ec58250_20200915134855_database.sql
+SQL FILE SIZE: 1.36MB (1427595)
+SQL FILE TIME: 2020-09-15 13:49:14
+SQL RUNTIME: 5.76 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/PortFolio
+ARCHIVE FILE: 20200915_mathieuderiquehem_005270816e792ec58250_20200915134855_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	107.7MB
+STATS:	Dirs 799 | Files 7,141
+SQL ADDED: 20200915_mathieuderiquehem_005270816e792ec58250_20200915134855_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7940
+    [filename] => C:\xampp\htdocs\PortFolio\wp-content\backups-dup-lite\tmp\20200915_mathieuderiquehem_005270816e792ec58250_20200915134855_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 7939
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 56.55MB
+ARCHIVE RUNTIME: 43.41 sec.
+MEMORY STACK: 10MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/PortFolio/wp-content/backups-dup-lite/tmp/20200915_mathieuderiquehem_005270816e792ec58250_20200915134855_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.36MB
+INSTALLER FILE: 61.32KB
+ARCHIVE FILE: 58.13MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 7,940
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 7,939
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 50.11 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20200915_mathieuderiquehem 15 September 2020 13h49
+

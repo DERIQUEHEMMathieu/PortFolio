@@ -2359,13 +2359,16 @@ body.home .navbar-color-customizer {
 	color: rgba(255, 255, 255, 0.7);
 	font-size: 12px;
 	line-height: 14px;
+	display: none;
 }
 
 .navbar-cart-inner:hover .icon-basket {
 	color: rgba(255, 255, 255, 1);
+	display: none;
 }
 
 .navbar-cart-inner .cart-item-number {
+	display: none;
 	position: absolute;
 	top: 9px;
 	right: initial;
@@ -2377,6 +2380,7 @@ body.home .navbar-color-customizer {
 }
 
 .navbar-cart-inner {
+	display: none;
 	float: right;
 	position: relative;
 	width: 25px;
@@ -2384,7 +2388,8 @@ body.home .navbar-color-customizer {
 }
 
 .navbar-cart {
-	display: table-cell !important;
+
+	display: none !important;
 	width: 90px;
 	height: 25px;
 	margin-left: 20px;
@@ -2410,7 +2415,7 @@ body.home .navbar-color-customizer {
 }
 
 .navbar-cart-inner:hover .header-shopping-cart {
-	display: block;
+	display: none;
 }
 
 .header-shopping-cart .mini_cart_item a {
@@ -4647,6 +4652,7 @@ h3#ship-to-different-address {
 
 @media screen and (max-width: 768px) {
 	.navbar-custom .navbar-cart {
+		display: none;
 		position: absolute;
 		top: 12px;
 		right: 35px;
@@ -4666,12 +4672,14 @@ h3#ship-to-different-address {
 	}
 
 	.navbar-custom .navbar-cart {
+		display: none;
 		position: initial;
 		width: 70px;
 		padding: 5px 0 5px 5px;
 	}
 
 	.navbar-cart {
+		display: none;
 		width: 80px;
 	}
 
